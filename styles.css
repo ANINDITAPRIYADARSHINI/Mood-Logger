@@ -4,4 +4,11 @@
     padding: 0;
 }
 
-
+.btn {
+    background-color: rgb(221, 202, 173);
+    border-style: none;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 25%;
+    margin-left: 20%;
+}
